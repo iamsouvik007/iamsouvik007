@@ -1,4 +1,4 @@
-![Header](./github_animated_banner.png)
+![Header](./github_animated_banner.gif)
 <h1 align="center">Hi 👋, I'm Souvik Bag</h1>
 <h3 align="center">A passionate Web developer & aspiring AI engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
