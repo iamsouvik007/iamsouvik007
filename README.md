@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Software developer & aspiring AI engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Backend Development** 
+- 🔭 I’m currently working on improving my coding skills. 
  
 - 👯 I’m looking to collaborate with other developers on exciting projects. 
  
-- 🌱 I’m currently learning **Web Development & Data Structures & Algorithms**
+- 🌱 I’m currently learning **Web Development & Data Structures & Algorithms.**
   
-- 💬 I love discussing **coding best practices, DSA, AI, and Machine Learning**  
+- 💬 I love discussing coding best practices, DSA, AI, and Machine Learning.  
 
 - 🎨 **"Coding is an art, be an artist."** 💻  
 
