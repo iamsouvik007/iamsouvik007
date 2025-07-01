@@ -8,7 +8,7 @@
  
 - 👯 I’m looking to collaborate with other developers on exciting projects. 
  
-- 🌱 I’m currently learning **Data Structures & Algorithms & AI.**
+- 🌱 I’m currently learning **Data Structures & Algorithms and AI.**
   
 - 💬 I love discussing coding best practices, DSA, AI, and Machine Learning.  
 
