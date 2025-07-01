@@ -1,6 +1,6 @@
 ![Header](./github_animated_banner.gif)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=over-thinker&label=Profile%20views&color=0e75b6&style=flat" alt="over-thinker" /> </p>
-<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=41&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Bidipta.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Souvik Bag Welcome to my Profile! animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=41&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Souvik.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Souvik Bag Welcome to my Profile! animated typed out">
 <h3 align="center">A passionate Software developer & aspiring AI engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
