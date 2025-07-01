@@ -1,14 +1,14 @@
 ![Header](./github_animated_banner.gif)
 
 <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=30&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=930&lines=Hey%2C+I'm+Souvik.+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Souvik Bag Welcome to my Profile! animated typed out">
-<h3 align="center">A passionate Software developer & aspiring AI engineer from India</h3>
+<h3 align="center">A curious coder & aspiring AI-ML engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on improving my coding skills. 
  
 - 👯 I’m looking to collaborate with other developers on exciting projects. 
  
-- 🌱 I’m currently learning **Data Structures & Algorithms.**
+- 🌱 I’m currently learning **Data Structures & Algorithms & AI.**
   
 - 💬 I love discussing coding best practices, DSA, AI, and Machine Learning.  
 
